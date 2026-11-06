@@ -1,0 +1,4 @@
+interface:
+  display_name: "R Nature Omics Figures"
+  short_description: "Nature-style R figures for omics"
+  default_prompt: "Use $r-nature-omics-figures to create publication-quality R figures for exposome and multi-omics analyses."
